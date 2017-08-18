@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# BFRES \"Embedded Files\" Extractor
+# BFRES "Embedded Files" Extractor
 # Version 0.1
 # Copyright © 2017 Stella/AboodXD
 
